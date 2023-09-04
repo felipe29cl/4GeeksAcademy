@@ -1,0 +1,63 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Felipe
+    last_name: Carrasco
+    
+    # Define yourself in 4-5 words
+    motto: I like the science!
+    
+    # focus
+    focus: Learn and Larn
+
+    
+    # Contact Information
+    email: felipe.carrasco@usach.cl #optional
+    phone: 234 2342 342 #optional
+    website: building.com #optional
+    linkedin: Felipe Carrasco #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: felipe29cl
+    
+    twitter: 'felipe' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Mid
+
+    # Interests or hobies
+    interests:
+      - item: Climbing
+
+      - item: Trekking
+
+      - item: Learning
+
+# Your previous education
+education:
+    - degree: Mg. Gerencia y Políticas Públicas
+      university: Universidad de Santiago de Chile
+      # optional
+      time: 2021-2022
+      
+
+    - degree: Administración Pública
+      university: niversidad de Santiago de Chile
+      time: 2012-2016
+  
